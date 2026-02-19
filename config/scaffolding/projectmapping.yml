@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: Kvv_1902_FedTestProject
+runtimes:
+- runtimeAlias: kvv_1902_FedTest
+  assets:
+  - name: fld_111399110_stage00.projects.fl148dba599c1f4897bca6cb6dc0764e68.integrations:tppdb
+    type: flow
+    stepId: /0
+    reference: fld_111399110_stage00.projects.fl148dba599c1f4897bca6cb6dc0764e68.WmPackageServiceProvider.SIQAJDBCAdapterTests.adapterServices:getData
